@@ -1,0 +1,14 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/srandhaw/HackerNewsNodeApi.git",
+  "author": "Sehajbir Randhawa <srandhaw@purdue.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
