@@ -6,9 +6,12 @@
   "author": "Sehajbir Randhawa <srandhaw@purdue.edu>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
