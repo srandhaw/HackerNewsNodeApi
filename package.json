@@ -9,7 +9,8 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "graphql-yoga": "^1.17.4"
+    "graphql-yoga": "^1.13.1",
+    "prisma-client-lib": "^1.33.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
